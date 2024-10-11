@@ -1,4 +1,4 @@
 # contents
 
-* [home](home.html)
+* [home](home.md)
 
